@@ -22,7 +22,7 @@ Tracing Back to Vault3, let’s first see where the Idea came from.
 
 ## 😕 The Problem
 
-It is normal tendency for humans to forget things that are long or things that cant be remembered easily. Hence, we write them down in a place to use them when needed. But in the digital world, writing important things that are hard to remember like passwords in physical objects like paper has become highly unlikely. It has become quite common to store important things in applications like password/note managers.
+It is a normal tendency for humans to forget things that are long or things that cant be remembered easily. Hence, we write them down in a place to use them when needed. But in the digital world, writing important things that are hard to remember like passwords in physical objects like paper has become highly unlikely. It has become quite common to store important things in applications like password/note managers.
 
 But have we ever thought about the safety of our digital belongings in those applications that are centralized? Have we ever thought that our data can be easily censored by the applications where we store them in? 
 
